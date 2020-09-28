@@ -18,6 +18,9 @@ pretendo iniciar minha graduação em analise e desenvolvimento de sistemas no p
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt='Node.JS Icon' align="left"/>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt='React Icon' align="left"/>
 
+<br/>
+<br/>
+
 ---
 
 ## 🔨💻 Meus projetos:
